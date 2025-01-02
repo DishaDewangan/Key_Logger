@@ -21,5 +21,3 @@ A simple web app that logs keypress events. It tracks `keydown` and `keyup` even
 2. Create a new file named `README.md` in your project directory.
 3. Paste the content into the file and save it.
 
-This `README.md` will provide a concise summary of your project, how to run it, and the technologies used.
-
