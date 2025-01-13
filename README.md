@@ -12,7 +12,7 @@ You can try the live demo of the app here 🌐: [Live Demo](https://dishadewanga
 ## How to Run:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/key-logger.git
+   git clone https://github.com/dishadewangan/keyTrace.git
 
 ### Steps to use the file:
 1. Copy the above content.
